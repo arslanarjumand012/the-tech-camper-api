@@ -1,0 +1,5 @@
+# ignore node_modules and config folder
+
+node_modules/
+.DS_store
+config/config.env
